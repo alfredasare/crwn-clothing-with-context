@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b378999-42f0-4500-91fa-8bf52df35193" name="Default Changelist" comment="" />
+    <list default="true" id="5b378999-42f0-4500-91fa-8bf52df35193" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/providers/cart.provider.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/providers/cart.utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1aE4xJZTgOYOxsGj5gQ6vTlDEuz" />
   <component name="ProjectViewState">
@@ -15,8 +23,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/contexts/collections" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/providers" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -29,6 +38,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alfred asare\WebstormProjects\crwn-clothing-with-context\src\providers" />
       <recent name="C:\Users\derekthe92\WebstormProjects\react-context-lesson-master\src\contexts\collections" />
     </key>
   </component>
@@ -44,6 +54,7 @@
       <updated>1586287663695</updated>
       <workItem from="1586287666467" duration="642000" />
       <workItem from="1586353848549" duration="7416000" />
+      <workItem from="1586373149729" duration="1761000" />
     </task>
     <servers />
   </component>
